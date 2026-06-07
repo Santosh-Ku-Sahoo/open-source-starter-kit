@@ -10,3 +10,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Practiced Bubble Sort logic and early-termination optimization.
 * **Status**: Completed
 
+### 📅 June 07, 2026
+* **Topic**: Reviewed Singly Linked List operations and pointer manipulation.
+* **Status**: Completed
+
