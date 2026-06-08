@@ -14,3 +14,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Reviewed Singly Linked List operations and pointer manipulation.
 * **Status**: Completed
 
+### 📅 June 08, 2026
+* **Topic**: Studied Stack data structure and Valid Parentheses algorithm.
+* **Status**: Completed
+
