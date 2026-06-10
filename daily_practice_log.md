@@ -18,3 +18,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Studied Stack data structure and Valid Parentheses algorithm.
 * **Status**: Completed
 
+### 📅 June 10, 2026
+* **Topic**: Explored Graph representations (Adjacency List vs Adjacency Matrix).
+* **Status**: Completed
+
