@@ -22,3 +22,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Explored Graph representations (Adjacency List vs Adjacency Matrix).
 * **Status**: Completed
 
+### 📅 June 12, 2026
+* **Topic**: Practiced BFS traversal on various graph structures.
+* **Status**: Completed
+
