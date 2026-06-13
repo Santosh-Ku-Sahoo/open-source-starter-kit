@@ -26,3 +26,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Practiced BFS traversal on various graph structures.
 * **Status**: Completed
 
+### 📅 June 13, 2026
+* **Topic**: Practiced DFS traversal (recursive and iterative) and cycle detection.
+* **Status**: Completed
+
