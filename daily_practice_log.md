@@ -30,3 +30,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Practiced DFS traversal (recursive and iterative) and cycle detection.
 * **Status**: Completed
 
+### 📅 June 14, 2026
+* **Topic**: Studied Dynamic Programming (DP) fundamentals.
+* **Status**: Completed
+
