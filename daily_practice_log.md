@@ -34,3 +34,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Studied Dynamic Programming (DP) fundamentals.
 * **Status**: Completed
 
+### 📅 June 15, 2026
+* **Topic**: Solved sub-problems of Longest Common Subsequence (LCS).
+* **Status**: Completed
+
