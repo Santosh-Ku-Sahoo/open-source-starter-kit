@@ -38,3 +38,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Solved sub-problems of Longest Common Subsequence (LCS).
 * **Status**: Completed
 
+### 📅 June 16, 2026
+* **Topic**: Analyzed time/space complexity of LCS.
+* **Status**: Completed
+
