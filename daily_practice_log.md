@@ -42,3 +42,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Analyzed time/space complexity of LCS.
 * **Status**: Completed
 
+### 📅 June 17, 2026
+* **Topic**: Studied shortest path algorithms (Dijkstra's Algorithm).
+* **Status**: Completed
+
