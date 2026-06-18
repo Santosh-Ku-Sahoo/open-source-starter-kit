@@ -46,3 +46,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Studied shortest path algorithms (Dijkstra's Algorithm).
 * **Status**: Completed
 
+### 📅 June 18, 2026
+* **Topic**: Practiced priority queue and heap operations in Python (heapq).
+* **Status**: Completed
+
