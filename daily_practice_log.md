@@ -50,3 +50,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Practiced priority queue and heap operations in Python (heapq).
 * **Status**: Completed
 
+### 📅 June 19, 2026
+* **Topic**: Studied cache eviction policies (LRU Cache).
+* **Status**: Completed
+
