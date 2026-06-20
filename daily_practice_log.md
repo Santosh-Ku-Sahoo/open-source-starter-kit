@@ -54,3 +54,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Studied cache eviction policies (LRU Cache).
 * **Status**: Completed
 
+### 📅 June 20, 2026
+* **Topic**: Understood OrderedDict vs Doubly Linked List + HashMap for LRU Cache.
+* **Status**: Completed
+
