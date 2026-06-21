@@ -58,3 +58,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Understood OrderedDict vs Doubly Linked List + HashMap for LRU Cache.
 * **Status**: Completed
 
+### 📅 June 21, 2026
+* **Topic**: Reviewed time complexities of all completed DSA problems.
+* **Status**: Completed
+
