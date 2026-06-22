@@ -62,3 +62,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Reviewed time complexities of all completed DSA problems.
 * **Status**: Completed
 
+### 📅 June 22, 2026
+* **Topic**: Practiced hand-drawn execution traces of recursion.
+* **Status**: Completed
+
