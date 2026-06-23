@@ -66,3 +66,7 @@ Tracked practice sessions for the open-source-starter-kit DSA challenges.
 * **Topic**: Practiced hand-drawn execution traces of recursion.
 * **Status**: Completed
 
+### 📅 June 23, 2026
+* **Topic**: Set up Git environment for contribution backdating.
+* **Status**: Completed
+
